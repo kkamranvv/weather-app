@@ -1,0 +1,1 @@
+Stay ahead of the weather with my easy-to-use Weather App! Enter a city name to get real-time updates on temperature, humidity, and wind speed in seconds. Find the weather you need, anytime, anywhere.
